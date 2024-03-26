@@ -6,10 +6,10 @@ Bem-vindo ao meu portfólio pessoal, dedicado a destacar minha vasta experiênci
 🚀 **Recursos Disponíveis:**
 
 ### Currículo:
-Meu currículo detalhado, abrangendo minha jornada profissional, habilidades técnicas, certificações e conquistas relevantes. Explore meu percurso acadêmico e profissional, descubra minhas áreas de especialização e saiba mais sobre como minha experiência pode agregar valor ao seu projeto ou equipe.
+Meu [currículo](https://github.com/chaos4455/ChatGPT-BR/blob/main/Elias%20Andrade%20-%20Especialista%20em%20Engenharia%20de%20Prompt%20e%20ChatGPT%20Tecnologia%20e%20Processos.pdf) detalhado, abrangendo minha jornada profissional, habilidades técnicas, certificações e conquistas relevantes. Explore meu percurso acadêmico e profissional, descubra minhas áreas de especialização e saiba mais sobre como minha experiência pode agregar valor ao seu projeto ou equipe.
 
 ### Carta de Apresentação:
-Uma carta de apresentação personalizada, na qual destaco minha paixão pela tecnologia, meu compromisso com a excelência e minha motivação para impulsionar a inovação. Descubra como minhas habilidades e experiência podem contribuir para os objetivos estratégicos da sua empresa e como estou preparado para enfrentar desafios e oportunidades.
+Uma [carta de apresentação](https://github.com/chaos4455/ChatGPT-BR/blob/main/Carta%20apresenta%C3%A7%C3%A3o%20-%20Especialista%20Intelig%C3%AAncia%20artificial%2C%20T.I%20e%20neg%C3%B3cios.pdf) personalizada, na qual destaco minha paixão pela tecnologia, meu compromisso com a excelência e minha motivação para impulsionar a inovação. Descubra como minhas habilidades e experiência podem contribuir para os objetivos estratégicos da sua empresa e como estou preparado para enfrentar desafios e oportunidades.
 
 ### Projetos:
 Uma coleção de projetos pessoais e profissionais, demonstrando minha capacidade de aplicar o ChatGPT em diferentes cenários e contextos. Explore exemplos de implementações práticas, automações inteligentes, integrações de sistemas e soluções inovadoras desenvolvidas ao longo da minha carreira.
