@@ -30,7 +30,7 @@ Recursos complementares, como links úteis, cursos recomendados, ferramentas e b
 Estou sempre aberto a feedback, sugestões e contribuições de outros profissionais e entusiastas da área. Se você tiver alguma ideia, comentário ou contribuição para compartilhar, não hesite em abrir uma issue ou enviar um pull request. Juntos, podemos colaborar para impulsionar a inovação e avançar ainda mais no campo do ChatGPT e da inteligência artificial.
 
 📧 **Contato:**
-Para entrar em contato comigo ou discutir oportunidades de colaboração, sinta-se à vontade para me enviar um e-mail em [seu-email] ou me contatar através do LinkedIn em [seu-perfil-linkedin]. Estou ansioso para conectar e explorar novas oportunidades de colaboração e crescimento.
+Para entrar em contato comigo ou discutir oportunidades de colaboração, sinta-se à vontade para me enviar um e-mail em [seu-email] ou me contatar através do LinkedIn em [seu-perfil-linkedin](https://www.linkedin.com/in/itilmgf/)]. Estou ansioso para conectar e explorar novas oportunidades de colaboração e crescimento.
 
 🔍 **Explorando o Portfólio:**
 Explore os diferentes recursos deste repositório para descobrir mais sobre meu trabalho e experiência como Especialista em ChatGPT. Espero que este portfólio seja uma fonte valiosa de inspiração, conhecimento e oportunidades para todos os interessados em explorar o potencial do ChatGPT no mundo real.
